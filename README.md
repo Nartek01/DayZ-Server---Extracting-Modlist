@@ -11,7 +11,7 @@ Todo this manually you would need to open meta.cpp and copy the value of the var
 123124,@SomeModFromWorkshop
 ```
 
-Now imagine doing it 75 times or more this is why this extract_modlist.bat exist because it checks all the folder with "@" in their name and retrieve the publishedid, paste it into output.txt the retrieve parents folder of the meta.cpp which is the modname and put it beside resulting in inside the ouput.txt
+Now imagine doing it 75 times or more....this is why extract_modlist.bat exist because it checks all the folder with "@" in their name and retrieve the publishedid, paste it into output.txt the retrieve parents folder of the meta.cpp which is the modname and put it beside resulting in inside the ouput.txt
 ```
 123124,@SomeModFromWorkshop
 ```
