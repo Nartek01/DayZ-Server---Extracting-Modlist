@@ -33,4 +33,4 @@ ServerStartupstandard.bat
 ```
 
 # Usage
-Run the extract_modlist.bat -> rename the output.txt to Modlist.txt
+Run the extract_modlist.bat -> rename the output.txt to Modlist.txt (If a Modlist.txt already exist back that up and use the newly renamed file instead)
