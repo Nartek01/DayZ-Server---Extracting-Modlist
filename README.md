@@ -22,6 +22,7 @@ SteamCMD, Steam Account with DayZ
 # Installation
 Simply download or clone the bat file and paste it in the server root folder. Meaning where the mpMissions and @mod1,@mod2 are located.
 e.g The file structure should look something like this
+```
 keys
 addons
 @cf
@@ -29,6 +30,7 @@ addons
 extract_modlist.bat
 Modlist.txt
 ServerStartupstandard.bat
+```
 
 # Usage
 Run the extract_modlist.bat -> rename the output.txt to Modlist.txt
