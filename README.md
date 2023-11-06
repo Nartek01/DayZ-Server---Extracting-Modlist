@@ -1,8 +1,7 @@
 # DayZ-Server---Extracting-Modlist
-
+Credits to every1knowsdave https://www.youtube.com/@every1knowsdave
 # Warning
-THIS batch file sole purpose is to assist the ServerStartupstandard.bat because it reads from the Modlist.txt which in turns contains the publishedid,mod name.
-Make the server run as "every1knowsdave" intended ( https://www.youtube.com/watch?v=FdJYsBqPgrI ). THEN use this batch file to save time.
+THIS batch file sole purpose is to assist the ServerStartupstandard.bat because it emulates the manual labor of copying and pasting all the publishedid and modnames.
 
 # Introduction
 I was looking on how to automate my DayZ Server hosting and stumbled upon "every1knowsdave" video about a certain start.bat that download DayZ mods based on their publishedid using SteamCMD. For the moment I only show how to use the .bat file itself not how to setup SteamCMD, Maybe in the future I will release a guide on how to setup SteamCMD...
@@ -18,6 +17,7 @@ Now imagine doing it 75 times or more....this is why extract_modlist.bat exist b
 
 # Prerequisite
 SteamCMD, Steam Account with DayZ
+Make the server run as "every1knowsdave" intended ( https://www.youtube.com/watch?v=FdJYsBqPgrI ). THEN use this batch file to save time.
 
 # Installation
 Simply download or clone the bat file and paste it in the server root folder. Meaning where the mpMissions and @mod1,@mod2 are located.
